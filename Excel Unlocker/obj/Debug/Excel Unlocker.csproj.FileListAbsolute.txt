@@ -1,0 +1,10 @@
+C:\Users\mantis\source\repos\Excel Unlocker\Excel Unlocker\obj\Debug\Excel Unlocker.csprojAssemblyReference.cache
+C:\Users\mantis\source\repos\Excel Unlocker\Excel Unlocker\obj\Debug\Excel_Unlocker.Properties.Resources.resources
+C:\Users\mantis\source\repos\Excel Unlocker\Excel Unlocker\obj\Debug\Excel Unlocker.csproj.GenerateResource.cache
+C:\Users\mantis\source\repos\Excel Unlocker\Excel Unlocker\obj\Debug\Excel Unlocker.csproj.CoreCompileInputs.cache
+C:\Users\mantis\source\repos\Excel Unlocker\Excel Unlocker\bin\Debug\Excel Unlocker.exe.config
+C:\Users\mantis\source\repos\Excel Unlocker\Excel Unlocker\bin\Debug\Excel Unlocker.exe
+C:\Users\mantis\source\repos\Excel Unlocker\Excel Unlocker\bin\Debug\Excel Unlocker.pdb
+C:\Users\mantis\source\repos\Excel Unlocker\Excel Unlocker\obj\Debug\Excel Unlocker.exe
+C:\Users\mantis\source\repos\Excel Unlocker\Excel Unlocker\obj\Debug\Excel Unlocker.pdb
+C:\Users\mantis\source\repos\Excel Unlocker\Excel Unlocker\obj\Debug\Excel_Unlocker.Main.resources
