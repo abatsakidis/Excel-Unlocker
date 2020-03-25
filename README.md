@@ -1,4 +1,6 @@
 
+[![Build status](https://ci.appveyor.com/api/projects/status/h1tk7r1f1b7ci2ro?svg=true)](https://ci.appveyor.com/project/abatsakidis/excel-unlocker)
+
 ## Description ##
 
 Excel Unlocker Tool that is used to remove worksheet and VBA protection from Microsoft Excel .xlsx and .xlsm files.<br>
